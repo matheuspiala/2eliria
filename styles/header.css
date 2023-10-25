@@ -56,3 +56,7 @@
 .container__botao {
     display: none;
 }
+.loja{
+    width: 30%;
+    padding: 30px;
+}
